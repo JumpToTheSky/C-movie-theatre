@@ -1,0 +1,47 @@
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.exe.config
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.exe
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.pdb
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.AssemblyReference.cache
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.SuggestedBindingRedirects.cache
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form1.resources
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Properties.Resources.resources
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.GenerateResource.cache
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.CoreCompileInputs.cache
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.exe
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.pdb
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form2.resources
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form3.resources
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Detail.resources
+E:\Cong nghe phan mem\Lab02\Lab02\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.ManagementCustomer.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.exe.config
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.exe
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.pdb
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.AssemblyReference.cache
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.SuggestedBindingRedirects.cache
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Detail.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form1.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form2.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form3.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.ManagementCustomer.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Properties.Resources.resources
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.GenerateResource.cache
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.CoreCompileInputs.cache
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.exe
+D:\2022-2023(1)\502045 - CNPM\ReportCinema\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.exe.config
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\bin\Debug\DemoMovieApp.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Form1.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.LoginForm.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.ManagementCustomer.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.DetailForm.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.MainForm.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.SearchForm.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\Cong-nghe-phan-mem\DemoMovieApp\DemoMovieApp\obj\Debug\DemoMovieApp.SignupForm.resources
